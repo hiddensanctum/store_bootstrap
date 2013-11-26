@@ -1,28 +1,24 @@
-== README
+# Basic Twitter Bootstrap Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+By James Chuang
 
-Things you may want to cover:
+## Description
+This is a basic Store twitter bootstrap example that was created using scaffolding to play around with the twitter bootstrap gem
 
-* Ruby version
+## Usage
 
-* System dependencies
+Feel free to look through the code to learn how to use the twitter bootstrap gem.
 
-* Configuration
+### Known Issues
 
-* Database creation
+There are currently no known issues.
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+* [James Chuang](https://github.com/hiddensanctum)
 
-* Services (job queues, cache servers, search engines, etc.)
+## License
 
-* Deployment instructions
+[MIT][1]
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[1]: http://opensource.org/licenses/MIT
